@@ -3,7 +3,6 @@
 <p align="center">
   <img src="./images/cat.gif" alt="Cat" width="150">
 </p>
-
 ## Actividad 1: Análisis CAP
 
 Para cada sistema se identifica la combinación del Teorema CAP que prioriza.
